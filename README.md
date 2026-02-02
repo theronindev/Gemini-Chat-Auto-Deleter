@@ -20,7 +20,7 @@ A Python-based automation utility designed to efficiently clear chat history fro
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/REPO_NAME.git](https://github.com/YOUR_USERNAME/REPO_NAME.git)
+    git clone [https://github.com/theronindev/Gemini-Chat-Auto-Deleter.git](https://github.com//theronindev/Gemini-Chat-Auto-Deleter.git)
     cd REPO_NAME
     ```
 
